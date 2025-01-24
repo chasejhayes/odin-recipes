@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:#EE1111
+    
+}
+
+
+div{
+    display: inline-block;
+    text-align: center;
+    padding: 2px 25px 2px 10px;
+    margin-left:50%;
+    transform:translateX(-50%);
+    box-sizing: border-box;
+    background-color: #10EEEF;
+    color: #EE1111;
+    
+}
+
+a{
+    color: #EE1111;
+}
